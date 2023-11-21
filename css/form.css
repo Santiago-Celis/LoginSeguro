@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display:flex;
+    border: solid black 1px;
+    width: 99.9%;
+    height: 890px;
+    align-items: center;
+    justify-content: center;
+}
+
+.container .caja{
+    clear: both;
+    border: solid 1px black;
+    width: fit-content;
+    height: 400px;
+    
+}
+
+.container .caja form{
+    border: black 1px solid;
+    height: 200px;
+}
+

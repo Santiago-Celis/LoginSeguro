@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    background-color: #BF4342;
+    margin: 0;
+    padding: 0;
+    height: 70px;
+}
+
+ul li{
+    float: right;
+    list-style: none;
+    height: 50px;
+    width: 240px;
+    padding: 25px 0px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-size:large;
+    height: 50px;
+    width: 120px;
+    padding: 0.5rem 20px;
+    box-sizing: border-box;
+    border-radius: 30px;
+    background-color: #1e555c;
+    margin: 5rem 0px;
+    
+}
